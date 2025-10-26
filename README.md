@@ -75,6 +75,9 @@ Names and courses are stored using dynamically allocated strings.
 Searching is case-insensitive for names.
 
 👨‍💻 Author
+
 Your Name
+
 Your College/Institution
+
 Year/Batch (optional)
