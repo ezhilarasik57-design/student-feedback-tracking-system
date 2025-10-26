@@ -1,4 +1,4 @@
-🎓 Student Feedback Tracking System – C Program
+🎓 Student Feedback Tracking System 
 
 📌 Objective
 To develop a Linked List-based Student Feedback Tracking System that manages and organizes student feedback data efficiently for a college or university.
